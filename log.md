@@ -1,3 +1,13 @@
 # 100 Jours de Code - Log
 
-### 
+### Jour 1: 31 Mars 2020
+
+**Progrès**:
+* J'ai débuté le cours *Introduction à jQuery* de Emily Reese sur Openclassrooms.com (OC). J'ai terminé les chapitres 1 et 2.
+* J'ai pu réaliser un petit script javascript qui modifie la couleur des items d'une liste en se basant sur le DOM.
+
+**Pensées**:
+
+* J'ai constaté que lorsqu'on écrit du code javascipt dans la balise `<head></head>` du HTML, les actions décrites ne s'opèrent pas sur la page web. Sûrement que le navigateur n'a pas encore la structure du DOM.
+
+**Lien vers les travaux**: [Modificateur de couleurs de liste](day001/index.html)
