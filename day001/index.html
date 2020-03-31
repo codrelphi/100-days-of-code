@@ -1,0 +1,32 @@
+<!Doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Test</title>
+	<style type="text/css">
+      .starred {
+        color: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Test JavaScript - jQuery</h1>
+    <ul>
+      <li>Un</li>
+      <li>Deux</li>
+      <li>Trois</li>
+      <li>Quatre</li>
+      <li>Cinq</li>
+    </ul>
+
+
+    <script type="text/javascript">
+      var listItems = document.querySelectorAll('li');
+      var i;
+      for (i=0; i<listItems.length; i++) {
+        listItems[i].className = 'starred';
+        console.log(listItems[i]);
+      }
+    </script>
+  </body>
+</html>
