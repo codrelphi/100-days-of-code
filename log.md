@@ -11,3 +11,14 @@
 * J'ai constaté que lorsqu'on écrit du code javascipt dans la balise `<head></head>` du HTML, les actions décrites ne s'opèrent pas sur la page web. Sûrement que le navigateur n'a pas encore la structure du DOM.
 
 **Lien vers les travaux**: [Modificateur de couleurs de liste](day001/index.html)
+
+### Jour 2: 1 Avril 2020
+
+**Progès**:
+* J'ai terminé les chapitres 3, 4, le quiz et le chapitre 5.
+* J'ai écrit une fonction JS qui modifie le contenu de la balise *body* d'une page.
+
+**Pensées**
+* La librairie jQuery existe en version de *développement* (code annoté et commenté pour aider le développeur à comprendre son fonctionnement) et en version de *production* (code minimaliste rapide et performant).
+
+**Lien vers les travaux**: [Modificateur du contenu du body](day002/index.html)
