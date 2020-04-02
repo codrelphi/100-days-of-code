@@ -22,3 +22,14 @@
 * La librairie jQuery existe en version de *développement* (code annoté et commenté pour aider le développeur à comprendre son fonctionnement) et en version de *production* (code minimaliste rapide et performant).
 
 **Lien vers les travaux**: [Modificateur du contenu du body](day002/index.html)
+
+### Jour 3: 2 Avril 2020
+
+**Progrès**:
+* Chapitre 6 du cours non terminé.
+* J'ai pu appliquer quelques sélecteurs de relation et des filtres.
+
+**Pensées**
+* Je vais mieux me documenter sur les *sélecteurs* et les *filtres* jQuery. Cette partie est assez dense.
+
+**Lien vers les travaux**: [Modificateur du contenu du body](day003/index.html)
