@@ -33,3 +33,10 @@
 * Je vais mieux me documenter sur les *sélecteurs* et les *filtres* jQuery. Cette partie est assez dense.
 
 **Lien vers les travaux**: [Modificateur du contenu du body](day003/index.html)
+
+### Jour 4: 3 Avril 2020
+
+**Progrès**:
+* Utilisation de sélecteurs jQuery
+
+**Lien vers les travaux**: [Utilisation de sélecteurs jQuery](day004/index.html)
