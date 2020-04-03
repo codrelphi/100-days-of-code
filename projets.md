@@ -5,3 +5,4 @@
 - [ ] Personal Portfolio Webpage
 - [ ] Random Quote Machine
 - [ ] Weather App
+- [ ] http://www.juliansalas.com/
