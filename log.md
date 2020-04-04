@@ -40,3 +40,13 @@
 * Utilisation de sélecteurs jQuery
 
 **Lien vers les travaux**: [Utilisation de sélecteurs jQuery](day004/index.html)
+
+### Jour 5: 4 Avril 2020
+
+**Progrès**:
+* Manipulation des sélecteurs et des filtres jQuery
+
+**Pensées**
+* Les sélecteurs et les filtres sont assez amusants (*fun*). Mais ils sont assez nombreux. La documentation permettra de se repérer.
+
+**Lien vers les travaux**: [Manipulation de sélecteurs et filtres jQuery](day005/index.html)
