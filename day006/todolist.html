@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>To-do list</title>
+    <script src="js/jquery-3.4.1.js"></script>
+    <style>
+      body {
+        background-color: #85cff7;
+      }
+      h1 {
+        color: #fff;
+      }
+      #list {
+        text-align: center;
+      }
+      li {
+        list-style-type: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="list">
+      <h1>To-do list</h1>
+      <ul id="listItems">
+        <li>Ecrire du code</li>
+        <li>Lire la documentation</li>
+      </ul>
+      <form id="listForm">
+        <input type="text" placeholder="item" id="item">
+        <input type="submit" value="add" id="submit">
+      </form>
+    </div>
+
+
+
+    <script type="text/javascript">
+      $(function(){
+        // to add an item
+        $('#listForm').on('submit', function(e) {
+          e.preventDefault();
+          var $text = $('input:text').val();
+          if ($text != "") {
+            $('#listItems').append('<li>' + $text + '</li>');
+            $('input:text').val('');
+          }
+        });
+
+        // to remove an item
+        $('#listItems').on('click', 'li', function(){
+          $(this).remove();
+        });
+      });
+    </script>
+  </body>
+</html>
